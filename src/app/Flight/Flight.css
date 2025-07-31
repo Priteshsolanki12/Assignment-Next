@@ -1,0 +1,9 @@
+.button {
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.nav-link-Flight {
+    flex-direction: row;
+    margin-left: -100px;
+}
