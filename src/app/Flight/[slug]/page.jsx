@@ -2,6 +2,7 @@
 import style from '../../page.module.css'
 import { useParams,useRouter } from 'next/navigation'
 import Link from "next/link"
+import './slug.css'
 
 function page() {
   const { slug } = useParams();

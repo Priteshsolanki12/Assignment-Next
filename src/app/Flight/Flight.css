@@ -31,7 +31,7 @@
   background-color: #005bb5;
 }
 
-/* Responsive tweaks */
+
 @media screen and (max-width: 768px) {
   .button {
     flex: 1 1 100%;

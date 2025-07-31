@@ -35,7 +35,6 @@
   cursor: pointer;
 }
 
-/* Nav links default: desktop */
 .nav-links {
   list-style: none;
   display: flex;
@@ -81,7 +80,6 @@
   color: var(--navbar-hover);
 }
 
-/* Dropdown styles */
 .submenu > button {
   display: flex;
   align-items: center;
@@ -116,7 +114,6 @@
   display: block;
 }
 
-/* ✅ Responsive styles for mobile */
 @media (max-width: 768px) {
   .menu-btn {
     display: block;
